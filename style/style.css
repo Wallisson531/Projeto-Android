@@ -214,3 +214,19 @@ button:hover {
     display: contents;
     text-align: left;
 }
+
+
+button:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.contato {
+    text-align: center;
+    
+}
+
+.pagina2 {
+    display: contents;
+    text-align: left;
+}
